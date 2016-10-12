@@ -1,5 +1,7 @@
 # Algorithm-Studies
 Studying searching and sorting algorithms. Decided to make it into something people could use to see and understand (hopefully) how each one works. Feel free to dive into the classes and the code to see comments on each step, and see how it executes.  
+  
+I found David Banas on youtube to be extremely helpful when learning these algorithms: https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw
 
 # How to use:
 Clone, then open in your Java IDE client (Eclipse is free here: https://eclipse.org/home/index.php).  
